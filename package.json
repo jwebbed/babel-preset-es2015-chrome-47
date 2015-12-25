@@ -12,7 +12,7 @@
     "babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
     "babel-plugin-transform-es2015-block-scoping": "^6.3.13",
     "babel-plugin-transform-es2015-classes": "^6.3.13",
-    "babel-plugin-transform-es2015-object-super": "^6.3.13",
+    "babel-plugin-transform-es2015-object-super": "^6.3.13"
   },
   "devDependencies": {
     "babel-helper-transform-fixture-test-runner": "^6.3.13"
