@@ -14,7 +14,8 @@
     "babel-plugin-transform-es2015-classes": "^6.3.13",
     "babel-plugin-transform-es2015-object-super": "^6.3.13",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
-    "babel-plugin-transform-es2015-arrow-functions": "^6.3.13"
+    "babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+    "babel-plugin-transform-es2015-destructuring": "^6.3.13"
   },
   "devDependencies": {
     "babel-helper-transform-fixture-test-runner": "^6.3.13"
