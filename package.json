@@ -1,0 +1,20 @@
+{
+  "name": "babel-preset-es2015-chrome-47",
+  "version": "6.3.13",
+  "description": "Babel preset for all es2015 features not currently supported in chrome 47",
+  "author": "Jonathan Webb <jonathan@webbdev.ca.com>",
+  "license": "MIT",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-preset-es2015",
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-transform-es2015-parameters": "^6.3.13",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+    "babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+    "babel-plugin-transform-es2015-classes": "^6.3.13",
+    "babel-plugin-transform-es2015-object-super": "^6.3.13",
+  },
+  "devDependencies": {
+    "babel-helper-transform-fixture-test-runner": "^6.3.13"
+  }
+}
